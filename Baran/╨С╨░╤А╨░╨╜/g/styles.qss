@@ -1,0 +1,43 @@
+QPushButton{
+     background-color: #4CAF55;
+     color: black;
+     border-radius: 10px;
+     padding: 10px;
+     font-size: 14px;
+
+}
+
+QPushButton:hover{
+     background-color: #45a049;
+
+}
+
+QListView{
+    background-color: #E0FFFF;
+    border: 1px solid #ccc;
+    padding: 5px;
+}
+QListWidget{
+     background-color: #E0FFFF;
+     border: 1px solid #ccc;
+     padding:5px;
+}
+
+QWidget{
+     background-color: #F0FFFF;
+}
+
+
+QLineEdit{
+     border: 1px solid #000000;
+     border-radius: 5px;
+     padding: 5px;
+     font-size: 14px;
+}
+
+QGroupBox{
+     font-weight: bold;
+     border: 1px solid #000000;
+     border-radius: 5px;
+     margin-top: 20px;
+}
